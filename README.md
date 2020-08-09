@@ -1,5 +1,13 @@
-# Hey, I'm Nir!
+## Hey, I'm Nir! 👋🏼
 
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" />
+ I'm an experienced Full Stack software developer with a strong background in Node.js and React.  
+ 
+
+### Find me online 🦪
+
+* I sometimes post at [medium](https://medium.com/@nirsky) 📚
+* For some reason, I have a [LinkedIn](https://www.linkedin.com/in/nir-hadassi/) profile. 🧑🏽‍💼
 <!--
 **nirsky/nirsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
