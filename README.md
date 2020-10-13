@@ -16,5 +16,4 @@ Currently working for Aspecto, [try us out](https://www.aspecto.io)!
  - AWS, Azure, GCloud
  - Prometheus, Grafana, Opentelemetry, ELK
  
-[![Nirsky's github stats](https://github-readme-stats.vercel.app/api?username=nirsky)](https://github.com/nirsky/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirsky&layout=compact)](https://github.com/nirsky/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=nirsky" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirsky&layout=compact" />
