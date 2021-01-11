@@ -3,8 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/nirsky?label=Follow&style=social)](https://github.com/nirsky/?tab=follow)
 ---
 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="250" />     
-
 Developing professionally since 2014. From Israel 🇮🇱  
 Currently working for Aspecto, [try us out](https://www.aspecto.io)!  
 
