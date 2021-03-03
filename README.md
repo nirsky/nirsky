@@ -4,7 +4,7 @@
 ---
 
 Developing professionally since 2014. From Israel 🇮🇱  
-Currently working for Aspecto, [try us out](https://www.aspecto.io)!  
+Currently working for Aspecto, [try us out](https://www.aspecto.io/?utm_source=github&utm_medium=profile&utm_campaign=nir)!  
 
  I'm an experienced Full Stack software developer with a strong background in Node.js within microservices environment and React.  
 
