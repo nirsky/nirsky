@@ -5,7 +5,7 @@
 
 Developing professionally since 2014. From Israel 🇮🇱  
 Author of [`react-native-size-matters 📐`](https://github.com/nirsky/react-native-size-matters).  
-Currently working for Aspecto, [try us out](https://www.aspecto.io/?utm_source=github&utm_medium=profile&utm_campaign=nir)!  
+Currently working for [Island](https://island.io).
 
  I'm an experienced Full Stack software developer with a strong background in Node.js within microservices environment and React.  
 
