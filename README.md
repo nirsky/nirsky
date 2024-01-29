@@ -8,11 +8,5 @@ Author of [`react-native-size-matters 📐`](https://github.com/nirsky/react-nat
 Currently working for [Island](https://island.io).
 
  I'm an experienced Full Stack software developer with a strong background in Node.js within microservices environment and React.  
-
- Some of the technologies and tools I'm familiar with:  
- - JS, TypeScript, React, MobX, React-Native, Node.js, Python
- - MongoDB, Neo4j, Firebase, DynamoDB  
- - AWS, Azure, GCloud
- - Prometheus, Grafana, Opentelemetry, ELK
  
  <img src="https://github-readme-stats.vercel.app/api?username=nirsky" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirsky&layout=compact" />
